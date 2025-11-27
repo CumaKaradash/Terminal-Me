@@ -42,7 +42,3 @@ Pull request’ler ve sorun bildirimleri (issue) her zaman açıktır. Katkılar
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
-
-## İletişim
-
-Her türlü soru ve öneri için [CumaKaradash](https://github.com/CumaKaradash) ile iletişime geçebilirsiniz.
