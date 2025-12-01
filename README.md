@@ -1,4 +1,4 @@
-# terminal-me
+# Terminal-Me
 
 Terminal-me, terminal tabanlı bir uygulamadır. Kullanıcıların terminal üzerinden çeşitli işlemler yürütmesini sağlar. Bu repo, terminal tabanlı projeler geliştirmek veya mevcut terminal projelerine katkıda bulunmak isteyenler için bir başlangıç noktası sunar.
 
